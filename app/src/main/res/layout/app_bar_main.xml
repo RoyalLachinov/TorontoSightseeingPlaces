@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ca.com.toronto.activities.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/activity_maps" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin_bottom"
+        app:backgroundTint="#4DB6AC"
+        />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabPlaces"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin_bottom"
+        app:backgroundTint="#4DB6AC"
+        />
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/twitter"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|left"-->
+        <!--android:layout_marginBottom="182dp"-->
+        <!--android:layout_marginRight="@dimen/fab_margin"-->
+        <!--android:elevation="6dp"-->
+        <!--android:src="@drawable/app_icon"-->
+        <!--app:pressedTranslationZ="12dp"-->
+        <!--android:backgroundTint="@color/cast_intro_overlay_button_background_color"-->
+        <!--android:visibility="invisible"/>-->
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/linkedin"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|right"-->
+        <!--android:layout_marginBottom="132dp"-->
+        <!--android:layout_marginRight="@dimen/fab_margin"-->
+        <!--android:elevation="6dp"-->
+        <!--android:src="@drawable/app_icon"-->
+        <!--app:pressedTranslationZ="12dp"-->
+        <!--android:backgroundTint="@color/colorPrimary"-->
+        <!--android:visibility="invisible"/>-->
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/fcb"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|right"-->
+        <!--android:layout_marginBottom="82dp"-->
+        <!--android:layout_marginRight="@dimen/fab_margin"-->
+        <!--android:elevation="6dp"-->
+        <!--android:src="@drawable/app_icon"-->
+        <!--app:pressedTranslationZ="12dp"-->
+        <!--android:backgroundTint="@color/colorAccent"-->
+        <!--android:visibility="invisible"/>-->
+
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/fabAnim"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|right"-->
+        <!--android:layout_marginBottom="16dp"-->
+        <!--android:layout_marginRight="@dimen/fab_margin"-->
+        <!--android:elevation="6dp"-->
+        <!--android:src="@drawable/app_icon"-->
+        <!--app:pressedTranslationZ="12dp" />-->
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuCNTower"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/cn_tower" />
+        <item
+            android:id="@+id/menuRoyalMuseum"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/royal_ontario_museum" />
+        <item
+            android:id="@+id/menuCasaLoma"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/casa_loma" />
+        <item
+            android:id="@+id/menuHockelHall"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/hockey_hall" />
+
+        <item
+            android:id="@+id/menuArtGallery"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/art_gallery" />
+        <item
+            android:id="@+id/menuRipleyAquirum"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/ripley_aquarium" />
+        <item
+            android:id="@+id/menuDistilleryDistrict"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/distillery_istrict" />
+        <item
+            android:id="@+id/menuLawerence"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/lawerence_market" />
+
+        <item
+            android:id="@+id/menuTorontoIslands"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/toronto_islands" />
+        <item
+            android:id="@+id/menuTorontoEatonCenter"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/toronto_eaton" />
+
+        <item
+            android:id="@+id/menuLakeOntario"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/lake_ontario" />
+
+        <item
+            android:id="@+id/menuOntarioScienceCentre"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/ontario_science" />
+
+        <item
+            android:id="@+id/menuQueenStreetWest"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/queen_street" />
+
+        <item
+            android:id="@+id/menuBataShoeMuseum"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/bata_shoe" />
+        <item
+            android:id="@+id/menuHighPark"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/high_park" />
+        <item
+            android:id="@+id/menuChinatownToronto"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/china_town" />
+        <item
+            android:id="@+id/menuYorkville"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/yorkvillw" />
+        <item
+            android:id="@+id/menuCanadaWonderland"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/canada_wonderland" />
+
+        <item
+            android:id="@+id/menuKensingtonMaket"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/kensigton_market" />
+        <item
+            android:id="@+id/menuTorontoZoo"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/toronto_zoo" />
+        <item
+            android:id="@+id/menuUnionStation"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/union_station" />
+        <item
+            android:id="@+id/menuBlackCreek"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/black_creek" />
+
+        <item
+            android:id="@+id/menuCenterville"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/centreville_amusement" />
+
+        <item
+            android:id="@+id/menuAllanGardens"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/allan_gardens" />
+
+        <item
+            android:id="@+id/menuNathanPhillipsSquare"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nathan_phillips" />
+        <item
+            android:id="@+id/menuFortYork"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/fort_york" />
+        <item
+            android:id="@+id/menuTorontoCityHall"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/city_hall" />
+
+        <item
+            android:id="@+id/menuGardinerMuseum"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/gardiner_museum" />
+
+        <item
+            android:id="@+id/menuEdwardsGardens"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/edwards_gardens" />
+        <item
+            android:id="@+id/menuYongeDundas"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/yonge_dundas_square" />
+        <item
+            android:id="@+id/menuTorontoHarbour"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/toronto_harbour" />
+        <item
+            android:id="@+id/menuTheBeaches"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/the_beaches" />
+
+
+        <item
+            android:id="@+id/menuTextileMuseum"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/textile_museum" />
+
+        <item
+            android:id="@+id/menuSpadinaHouse"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/spadina_house" />
+
+        <item
+            android:id="@+id/menuTorontoWaterfront"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/toronto_waterfront" />
+        <item
+            android:id="@+id/menuGooderhamBuilding"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/gooderham_building" />
+        <item
+            android:id="@+id/menuHanlanPointBeach"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/hallan_point_beach" />
+        <item
+            android:id="@+id/menRoyThomsonHall"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/roy_thomson_hall" />
+
+        <item
+            android:id="@+id/menuSugarBeach"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/sugar_beach" />
+
+        <item
+            android:id="@+id/menuDonValleyBrickWorks"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/don_valley_brick_works" />
+
+        <item
+            android:id="@+id/menuHarbourfrontCentre"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/harbourfront_centre" />
+        <item
+            android:id="@+id/menuEdgeWalkCNTower"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/edgewalk_the_cn_tower" />
+        <item
+            android:id="@+id/menuChinguacousyPark"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/chinguacousy_park" />
+
+        <item
+            android:id="@+id/menCentennialPark"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/centennial_park" />
+
+
+        <item
+            android:id="@+id/menuWoodbineBeach"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/woodbine_beach" />
+        <item
+            android:id="@+id/menuAgaKhanMuseum"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/aga_khan_museum" />
+        <item
+            android:id="@+id/menuTorontoIslandPark"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/toronto_island_park" />
+
+        <item
+            android:id="@+id/menuPlayerOneAmusementGroup"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/player_one_amusement" />
+
+        <item
+            android:id="@+id/menuRiverdaleFarm"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/riverdale_farm" />
+
+        <item
+            android:id="@+id/menuLegolandDiscoveryCentre"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/legoland_discovery_centre" />
+
+    </group>
+
+
+</menu>

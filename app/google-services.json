@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501434736298",
+    "firebase_url": "https://fir-notification-tutorial.firebaseio.com",
+    "project_id": "fir-notification-tutorial",
+    "storage_bucket": "fir-notification-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501434736298:android:52e98eabb397b098",
+        "android_client_info": {
+          "package_name": "ca.com.testtutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501434736298-dt44c66tt18brrnajb6scc0a4sjoqbcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfThcbzeGR_g0-KLW62NZKRVvqOQYH1jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

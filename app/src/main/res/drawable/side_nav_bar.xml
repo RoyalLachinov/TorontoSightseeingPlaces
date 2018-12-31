@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <bitmap
+                android:src="@drawable/toronto"
+                android:tileMode="repeat" />
+
+        </shape>
+    </item>
+</layer-list>

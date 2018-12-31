@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Toronto Sightseeing Places</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- AdMob interstitial ad test unit IDs -->
+    <!--https://developers.google.com/admob/android/test-ads-->
+    <!--&lt;!&ndash; AdMob interstitial ad unit IDs &ndash;&gt;-->
+
+    <!--<string name="interstitial_ads_unit_id">ca-app-pub-5763468518685682/8897576424</string>-->
+
+    <!--
+    Butun .xml fayllardaki AdView'larin unitId'sini deyishmemek ucun test id'lerini real id'ler ile deyisdim.
+    Amma production .apk ucun yuxaridaki real ads_unit_id'ler istifade olunmalidir
+    -->
+    <string name="interstitial_ads_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_id">ca-app-pub-5763468518685682~8564389843</string>
+
+    <string name="point_0">The CN Tower is a 553.3 m–high concrete communications and observation tower in downtown Toronto, Ontario\n<b>Address:</b> 301 Front St W, Toronto, ON M5V 2T6\n<b>Height:</b> 1,815′\n<b>Construction started:</b> February 6, 1973\n<b>Opened:</b> October 2, 1976\n<b>Hours:</b>Thursday	8:30AM–10:30PM\n\t\t\t\t\t\tFriday	8:30AM–10:30PM\n\t\t\t\t\t\tSaturday	8:30AM–10:30PM\n\t\t\t\t\t\tSunday	8:30AM–10:30PM\n\t\t\t\t\t\tMonday	8:30AM–10:30PM\n\t\t\t\t\t\tTuesday	8:30AM–10:30PM\n\t\t\t\t\t\tWednesday	8:30AM–10:30PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 868–6937\n<b>Architect:</b> John Andrews\n<b>Did you know:</b> The CN Tower is struck by lightning approximately 75 times each year\n</string>
+    <string name="point_1">The Royal Ontario Museum is a museum of art, world culture and natural history in Toronto, Canada. It is one of the largest museums in North America, the largest in Canada\n<b>Address:</b> 100 Queens Park, Toronto, ON M5S 2C6\n<b>Hours:</b>Thursday	10AM–5:30PM\n\t\t\t\t\t\tFriday	10AM–5:30PM\n\t\t\t\t\t\tSaturday	10AM–5:30PM\n\t\t\t\t\t\tSunday	10AM–5:30PM\n\t\t\t\t\t\tMonday	10AM–5:30PM\n\t\t\t\t\t\tTuesday	10AM–5:30PM\n\t\t\t\t\t\tWednesday	10AM–5:30PM\nProvince: Ontario\n<b>Architecture firm:</b> Chapman and Oxley\n<b>Phone:</b> (416) 586–8000\n<b>Architects:</b> Daniel Libeskind, Frank Darling, John A. Pearson\n<b>Architectural styles:</b> Romanesque Revival architecture, Byzantine Revival architecture\n<b>Artworks:</b> Ukiyo–e print by Kitagawa Utamaro of a hunting party, Ukiyo-e print of Fukagawa, from "36 views of Mt. Fuji"\n<b>Did you know:</b> The Royal Ontario Museum originally opened as 5 separate museums devoted to archaeology, geology, mineralogy, palaeontology and zoology, which amalgamated in 1955\n </string>
+    <string name="point_2">Casa Loma is a Gothic Revival style house and gardens in midtown Toronto, Ontario, Canada, that is now a museum and landmark. It was built as a residence for financier Sir Henry Mill Pellatt. Casa Loma was constructed from 1911 to 1914.\n<b>Address:</b> 1 Austin Terrace, Toronto, ON M5R 1X8\n<b>Hours:</b>Friday	9:30AM–5PM\n\t\t\t\t\t\tSaturday	9:30AM–5PM\n\t\t\t\t\t\tSunday	9:30AM–5PM\n\t\t\t\t\t\tMonday	9:30AM–10PM\n\t\t\t\t\t\tTuesday	9:30AM–10PM\n\t\t\t\t\t\tWednesday	9:30AM–5PM\n\t\t\t\t\t\tThursday	9:30AM–5PM\n<b>Cost:</b> 3.5 million USD\n<b>Province:</b>Ontario\n<b>Phone: </b>(416) 923–1171\n<b>Owner:</b>Municipal government of Toronto\n<b>Architect:</b> E. J. Lennox\n<b>Did you know:</b> The city seized Casa Loma in 1933 for $27,303 in back taxes.\n</string>
+    <string name="point_3">The Hockey Hall of Fame is located in Toronto, Ontario, Canada. Dedicated to the history of ice hockey, it is a museum and a hall of fame.\n<b>Address:</b> 30 Yonge St, Toronto, ON M5E 1X8\n<b>Hours:</b>Friday	10AM–5PM\n\t\t\t\t\t\tSaturday	9:30AM–6PM\n\t\t\t\t\t\tSunday	10:30AM–5PM\n\t\t\t\t\t\tMonday	10AM–5PM\n\t\t\t\t\t\tTuesday	10AM–5PM\n\t\t\t\t\t\tWednesday	10AM–5PM\n\t\t\t\t\t\tThursday	10AM–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 360–7765\n<b>Architect:</b> S. George Curry\n<b>Did you know:</b> The 22 minute film plays at the top and half past the hour in the Hockey Hall of Fame TSN Theatre and is included in the price of admission.\n</string>
+    <string name="point_4">The Art Gallery of Ontario is an art museum in Toronto, Ontario, Canada. Its collection includes more than 80,000 works spanning the first century to the present day.\n<b>Address:</b> 317 Dundas St W, Toronto, ON M5T 1G4\n<b>Hours:</b>Friday	10:30AM–9PM\n\t\t\t\t\t\tSaturday	10:30AM–5:30PM\n\t\t\t\t\t\tSunday	10:30AM–5:30PM\n\t\t\t\t\t\tMonday	Closed\n\t\t\t\t\t\tTuesday	10:30AM–5PM\n\t\t\t\t\t\tWednesday	10:30AM–9PM\n\t\t\t\t\t\tThursday	10:30AM–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 979–6648\n<b>Completed:</b> 2004\n<b>Date completed:</b> 2008\n<b>Architect:</b> Frank Gehry\n</string>
+    <string name="point_5">Ripley Aquarium of Canada is a public aquarium in Toronto, Ontario. The aquarium is one of three aquariums owned and operated by Ripley Entertainment. It is located in downtown Toronto, just southeast of the CN Tower.\n<b>Address:</b> 288 Bremner Blvd, Toronto, ON M5V 3L9\n<b>Opened:</b> October 16, 2013\n<b>Floor space:</b> 3 acres\n<b>Volume of largest tank:</b> 100,300 ft³\n<b>Hours:</b>Friday	9AM–11PM\n\t\t\t\t\t\tSaturday	9AM–11PM\n\t\t\t\t\t\tSunday	9AM–11PM\n\t\t\t\t\t\tMonday	9AM–11PM\n\t\t\t\t\t\tTuesday	9AM–11PM\n\t\t\t\t\t\tWednesday	9AM–11PM\n\t\t\t\t\t\tThursday	9AM–11PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (647) 351–3474\n<b>Number of animals:</b> 16,000\n<b>Public transit access:</b> Union Station, Unio\n</string>
+    <string name="point_6">The Distillery District is a commercial and residential district in Toronto, Ontario, Canada. Located east of downtown, it contains numerous cafés, restaurants, and shops housed within heritage buildings of the former Gooderham and Worts Distillery.\n<b>Province:</b> Ontario\n<b>City:</b> Toronto\n<b>Designated as world heritage site:</b> 1988\n</string>
+    <string name="point_7">Spacious market with 100+ vendors, bakers, butchers and artisans, with produce and antiques on weekends.\n<b>Address:</b> 93 Front St E, Toronto, ON M5E 1C3\n<b>Hours:</b> Open today · 8AM–7PM\n<b>Phone:</b> (416) 392–7219\n</string>
+    <string name="point_8">The Toronto Islands are a chain of small islands in Lake Ontario, south of mainland Toronto, Ontario, Canada.\n<b>Province:</b> Ontario\n</string>
+    <string name="point_9">Huge array of shops, clothiers and restaurants in a soaring, historic mall with a glass ceiling.\n<b>Address:</b> 220 Yonge St, Toronto, ON M5B 2H1\n<b>Hours:</b> Open today · 10AM–9:30PM\n<b>Phone:</b> (416) 598–8560\n</string>
+    <string name="point_10">Lake Ontario is one of the five Great Lakes of North America. It is surrounded on the north, west, and southwest by the Canadian province of Ontario, and on the south and east by the American state of …\n<b>Area:</b> 18,960 km²\n<b>Surface elevation:</b> 74 m\n<b>Max. depth:</b> 802 ft (244 m)\n<b>Location:</b> North America\n<b>Shore length1:</b> 634 mi (1,020 km) plus 78 mi (126 km) for islands\n<b>Fish:</b> Walleye, Chinook salmon, Coho salmon\n</string>
+    <string name="point_11">Ontario Science Centre is a science museum in Toronto, Ontario, Canada, near the Don Valley Parkway about 11 kilometres northeast of downtown on Don Mills Road just south of Eglinton Avenue East.\n<b>Address:</b> 770 Don Mills Rd, Toronto, ON M3C 1T3\n<b>Hours:</b> Open today · 10AM–4PM\n<b>Phone:</b> (416) 696–1000\n<b>CEO:</b> Maurice Bitran (Jun 16, 2014–)\n<b>Province:</b> Ontario\n<b>Founded:</b> September 26, 1969\n<b>Director:</b> Maurice Bitran\n<b>Owner:</b> Government of Ontario\n<b>Did you know:</b> The Ontario Science Centre is easily accessible by public transport.\n</string>
+    <string name="point_12">Queen Street West describes both the western branch of Queen Street, a major east-west thoroughfare, and a series of neighbourhoods or commercial districts, situated west of Yonge Street in downtown Toronto, Ontario, Canada\n<b>Length:</b> 5.6 km\n<b>East end:</b> Yonge Street\n<b>West end:</b> Roncesvalles Avenue; King Street\n<b>Existed:</b> 1793 (as Lot St.); 1851 (renamed Queen St.) – present\n<b>Province:</b> Ontario\n</string>
+    <string name="point_13">The Bata Shoe Museum is a footwear museum in downtown Toronto, Canada, located at Bloor St. and St George St. in the Bloor St. Culture Corridor. The museum collects, researches, preserves and exhibits, footwear from around the world. Wikipedia\n<b>Address:</b> 327 Bloor St W, Toronto, ON M5S 1W7\n<b>Hours:</b> Open today · 10AM–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 979–7799\n</string>
+    <string name="point_14">High Park is a municipal park in Toronto, Ontario, Canada. It spans 161 hectares, and is a mixed recreational and natural park, with sporting facilities, cultural facilities, educational facilities, gardens, playgrounds and a zoo.\n<b>Address:</b> 1873 Bloor St W, Toronto, ON M6R 2Z3\n<b>Area:</b> 398 acres\n<b>Hours:</b> Open today · Open 24 hours\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 338–0338\n<b>Owner:</b> Toronto\n<b>Did you know:</b> The park has a designated off–leash area for dogs and several paths where dogs are allowed to run free.\n</string>
+    <string name="point_15">Chinatown is an ethnic enclave in Downtown Toronto, Ontario, Canada, with a high concentration of ethnic Chinese residents and businesses extending along Dundas Street West and Spadina Avenue west of the centre of the city.\n<b>Province:</b> Ontario\n<b>Hotels:</b> Super 8 Downtown Toronto, Chinatown Inn Toronto, Chinatown Family House\n</string>
+    <string name="point_16">Yorkville is an affluent neighbourhood in Toronto, Ontario, Canada. It is roughly bounded by Bloor Street to the south, Davenport Road to the north, Yonge Street to the east and Avenue Road to the west, … Wikipedia<b>Province:</b> Ontario\n<b>Incorporated:</b> 1853 (as village)\n<b>Annexed:</b> 1883 (by City of Toronto)\n<b>Area code:</b> Area codes 416, 647, and 437\n<b>Hotels:</b> The Hazelton Hotel, Four Seasons Hotel Toronto\</string>
+    <string name="point_17">Canada Wonderland is a 330–acre theme park located in Vaughan, Ontario, a suburb approximately 40 kilometres north of Downtown Toronto. Wikipedia\n<b>Address:</b> 1 Canada Wonderland Drive, Vaughan, ON L6A 1S6\n<b>Opened:</b> May 23, 1981\n<b>Area:</b> 321 acres\n<b>Hours:</b> Open today · 10AM–10PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (905) 832–7000\n<b>Owner:</b> Cedar Fair Entertainment Company\n<b>Operating season:</b> May–October\n</string>
+    <string name="point_18">Kensington Market is a distinctive multicultural neighbourhood in Downtown Toronto, Ontario, Canada. The Market is an older neighbourhood and one of the city most well-known. In November 2006, it was designated a National Historic Site of Canada. Wikipedia\n<b>Province:</b> Ontario\n<b>Designated as world heritage site:</b> 2006\n<b>City:</b> Toronto\n<b>Hotels:</b> Chinatown Family House, Toronto downtown rooms Nassau st, Augusta Hotel, Global Village Kensington\n</string>
+    <string name="point_19">The Toronto Zoo is a zoo located in Toronto, Ontario, Canada. Founded by Hugh A. Crothers, an industrialist who became the first Chairman of the Metro Toronto Zoological Society in 1966, the zoo opened …\n<b>Address:</b> 2000 Meadowvale Rd, Toronto, ON M1B 5K7\n<b>Opened:</b> August 15, 1974\n<b>Area:</b> 1.108 mi²\n<b>Hours:</b> Open today · 9:30AM–4:30PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 392–5929\n<b>Number of species:</b> 500\n<b>Products and Services:</b> torontozoo.com\n<b>Notable animals:</b> Eva (Bactrian camel), Goober (Bactrian camel), more\n<b>Exhibits:</b> Tundra Trek, Australasia, Canadian Domain, Africa, Americas, Indo–Malaya, Eurasia\n</string>
+    <string name="point_20">Union Station 3.8(390)Historic transportation center Opened in 1927, this transportation hub offers bus, rail and bicycle services plus shops and eateries.</string>
+    <string name="point_21">1800s village featuring period buildings, artifacts, costumed guides and educational programs.\n<b>Address:</b> 1000 Murray Ross Pkwy, North York, ON M3J 2P3\n<b>Hours:</b> Open today · 10AM–6PM\n<b>Phone:</b> (416) 736–1733\nPlan your visit\nPeople typically spend up to 3 hours here\n</string>
+    <string name="point_22">The Centreville Amusement Park is a children amusement park located on Centre Island, part of the Toronto Islands, offshore of the city of Toronto in the Canadian province of Ontario. Wikipedia\n<b>Address:</b> Toronto, Ontario M5J 2H3\n<b>Opened:</b> 1967\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 203–0405\n<b>Operating season:</b> May through September\n</string>
+    <string name="point_23">Allan Gardens is one of the oldest parks in Toronto, Ontario, Canada. It has a conservatory, a playground and two fenced off–leash areas for dogs. It is operated by Toronto Parks who also run Centennial Park Conservatory.\n<b>Address:</b> Allan Gardens Children Conservatory, 19 Horticultural Ave, Toronto, ON M5A 2P2\n<b>Hours:</b><b>Friday</b>	10AM–5PM\n\t\t\t\t\t\t<b>Saturday</b>	10AM–5PM\n\t\t\t\t\t\t<b>Sunday</b>	10AM–5PM\n\t\t\t\t\t\t<b>Monday</b>	10AM–5PM\n\t\t\t\t\t\t<b>Tuesday</b>	10AM–5PM\n\t\t\t\t\t\t<b>Wednesday</b>	10AM–5PM\n\t\t\t\t\t\t<b>Thursday</b>	10AM–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 392–7288\n</string>
+    <string name="point_24">Nathan Phillips Square is an urban plaza in Toronto, Ontario, Canada. It forms the forecourt to Toronto City Hall, or New City Hall, at the intersection of Queen Street West and Bay Street, and is named \n<b>Address:</b> 100 Queen St W, Toronto, ON M5H 2N2\n<b>Area:</b> 12 acres\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 203–2600\n<b>Owner:</b> Toronto\n<b>Design:</b> Viljo Revell\n<b>Surface:</b> Concrete\n</string>
+    <string name="point_25">Fort York is a historic site of military fortifications and related buildings on the west side of downtown Toronto, Ontario, Canada.\n<b>Address:</b> 250 Fort York Blvd, Toronto, ON M5V 3K9\n<b>Hours:</b>Friday	10AM–5PM\n\t\t\t\t\t\tSaturday	10AM–5PM\n\t\t\t\t\t\tSunday	10AM–5PM\n\t\t\t\t\t\tMonday	10AM–5PM\n\t\t\t\t\t\t\Tuesday	10AM–5PM\n\t\t\t\t\t\tWednesday	10AM–5PM\n\t\t\t\t\t\tThursday	10AM–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 392–6907\n</string>
+    <string name="point_26">The Toronto City Hall, or New City Hall, is the seat of the municipal government of Toronto, Ontario, Canada, and one of the city most distinctive landmarks.\n<b>Address:</b> 100 Queen St W, Toronto, ON M5H 2N2\n<b>Hours:</b>Friday	8:30AM–4:30PM\n\t\t\t\t\t\tSaturday	Closed\n\t\t\t\t\t\tSunday	Closed\n\t\t\t\t\t\tMonday	8:30AM–4:30PM\n\t\t\t\t\t\tTuesday	8:30AM–4:30PM\n\t\t\t\t\t\tWednesday	8:30AM–4:30PM\n\t\t\t\t\t\tThursday	8:30AM–4:30PM\n<b>Phone:</b> (416) 392–2489\n<b>Province:</b> Ontario\n<b>Architectural style:</b> Modernism\n<b>Owner:</b> Municipal government of Toronto\n<b>Construction started:</b> November 7, 1961\n<b>Inaugurated:</b> September 13, 1965\n<b>Architects:</b> Viljo Revell, Bruce Kuwabara\n</string>
+    <string name="point_27">Besides exhibits, this ceramics museum offers classes, lectures and tours, plus a bistro and gift shop.\n<b>Address:</b> 111 Queens Park, Toronto, ON M5S 2C7\n<b>Hours:</b>Friday	10AM–9PM\n\t\t\t\t\t\tSaturday	10AM–5PM\n\t\t\t\t\t\tSunday	10AM–5PM\n\t\t\t\t\t\tMonday	10AM–6PM\n\t\t\t\t\t\t\Tuesday	10AM–6PM\n\t\t\t\t\t\tWednesday	10AM–6PM\n\t\t\t\t\t\tThursday	10AM–6PM\n<b>Phone:</b> (416) 586–8080\n</string>
+    <string name="point_28">Edwards Gardens is a botanical garden located on the southwest corner of Leslie Street and Lawrence Avenue East in Toronto, Ontario, Canada.\n<b>Address:</b> 755 Lawrence Ave E, North York, ON M3C 1P2\n<b>Hours:</b>Friday	Open 24 hours\n\t\t\t\t\t\tSaturday	Open 24 hours\n\t\t\t\t\t\tSunday	Open 24 hours\n\t\t\t\t\t\tMonday	Open 24 hours\n\t\t\t\t\t\tTuesday	Open 24 hours\n\t\t\t\t\t\tWednesday	Open 24 hours\n\t\t\t\t\t\tThursday	Open 24 hours\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 397–1340\n</string>
+    <string name="point_29">Yonge–Dundas Square, or Dundas Square, is a public square situated at the southeast corner of the intersection of Yonge Street and Dundas Street East in Downtown Toronto, Ontario, Canada.\n<b>Address:</b> 1 Dundas St E, Toronto, ON M5B 2R8\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 979–9960\n<b>Owner:</b> Toronto\n<b>Design:</b> Brown and Storey Architects\n<b>Surface:</b> Granite\n</string>
+    <string name="point_30">Toronto Harbour or Toronto Bay is a bay on the north shore of Lake Ontario, in Toronto, Ontario, Canada. It is a natural harbour, protected from Lake Ontario waves by the Toronto Islands. \n</string>
+    <string name="point_31">The Beaches is a neighbourhood in Toronto, Ontario, Canada. It is so named because of its four beaches situated on Lake Ontario. It is located east of downtown within the "Old" City of Toronto.\n</string>
+    <string name="point_32">The Textile Museum of Canada, located Toronto, Ontario, Canada, is a Canadian museum dedicated to the collection, exhibition, and documentation of textiles.\n<b>Address:</b> 55 Centre Ave, Toronto, ON M5G 2H5\n<b>Hours:</b>Friday	11AM–5PM\n\t\t\t\t\t\tSaturday	11AM–5PM\n\t\t\t\t\t\tSunday	11AM–5PM\n\t\t\t\t\t\tMonday	11AM–5PM\n\t\t\t\t\t\tTuesday	11AM–5PM\n\t\t\t\t\t\tWednesday	11AM–8PM\n\t\t\t\t\t\tThursday	11AM–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 599–5321\n<b>Founded:</b> 1975\nPublic transit access: St. Patrick\n</string>
+    <string name="point_33">Spadina Museum: Historic House and Gardens, sometimes called Spadina House, is a historic manor on Spadina Road in Toronto, Canada that is now a museum operated by the City of Toronto Cultural Services.\n<b>Address:</b> 285 Spadina Rd, Toronto, ON M5R 2V5\n<b>Hours:</b>Friday	12–5PM\n\t\t\t\t\t\tSaturday	12–5PM\n\t\t\t\t\t\tSunday	12–5PM\n\t\t\t\t\t\tMonday	Closed\n\t\t\t\t\t\tTuesday	12–5PM\n\t\t\t\t\t\tWednesday	12–5PM\n\t\t\t\t\t\tThursday	12–5PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 392–6910\n<b>Construction started:</b> 1866\n<b>Architect:</b> James Austin\n</string>
+    <string name="point_34">The Toronto waterfront is the lakeshore of Lake Ontario in the City of Toronto, Ontario in Canada. It spans 46 kilometres between the mouth of Etobicoke Creek in the west, and the Rouge River in the East.\n<b>Address:</b> 20 Bay St, Toronto, ON M5J 2N8\n<b>Hours:</b>Friday	8:30AM–5PM\n\t\t\t\t\t\tSaturday	Closed\n\t\t\t\t\t\tSunday	Closed\n\t\t\t\t\t\tMonday	8:30AM–5PM\n\t\t\t\t\t\tTuesday	8:30AM–5PM\n\t\t\t\t\t\tWednesday	8:30AM–5PM\n\t\t\t\t\t\tThursday	8:30AM–5PM\n<b>Phone:</b> (416) 214–1344\n<b>Province:</b> Ontario\n</string>
+    <string name="point_35">The red–brick Gooderham Building is a historic landmark of Toronto, Ontario, Canada located at 49 Wellington Street East.\n<b>Address:</b> 49 Wellington St E, Toronto, ON M5E 1C9\n<b>Opened:</b> 1892\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 392–1975\n<b>Architectural styles:</b> Romanesque Revival architecture, French Gothic architecture\n<b>Architect:</b> David Roberts, Jr\n</string>
+    <string name="point_36">Hanlan Point Beach is a public beach situated on Hanlan Point in the Toronto Islands near Toronto, Ontario on the shore of Lake Ontario.\n<b>Address:</b> Lakeshore Ave, Toronto, ON M5J 2W2\n<b>Hours:</b> Open today · Open 24 hours\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 392–8196\n</string>
+    <string name="point_37">Roy Thomson Hall is a concert hall in Toronto, Ontario, Canada. Located downtown in the city entertainment district, it is home to the Toronto Symphony Orchestra and Toronto Mendelssohn Choir.\n<b>Address:</b> 60 Simcoe St, Toronto, ON M5J 2H5\n<b>Opened:</b> 1982\n<b>Capacity:</b> 2,630\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 872–4255\n<b>Function:</b> Concert Hall\n<b>Architect:</b> Arthur Erickson\n</string>
+    <string name="point_38">Sugar Beach is an urban beach park in Toronto, Canada, that opened in 2010. It is located across from Redpath Sugar Refinery in Toronto eastern East Bayfront.\n<b>Address:</b> 11 Dockside Dr, Toronto, ON M5A 1B6\n<b>Opened:</b> August 9, 2010\n<b>Area:</b> 87,120 ft²\n<b>Hours:</b>Friday	8AM–11PM\n\t\t\t\t\t\tSaturday	8AM–11PM\n\t\t\t\t\t\tSunday	8AM–11PM\n\t\t\t\t\t\tMonday	8AM–11PM\n\t\t\t\t\t\tTuesday	8AM–11PM\n\t\t\t\t\t\tWednesday	8AM–11PM\n\t\t\t\t\t\tThursday	8AM–11PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 338–4386\n<b>Architecture firm:</b> Claude Cormier Architectes Paysagistes Inc\n<b>Architect:</b> Claude Cormier\n</string>
+    <string name="point_39">The Don Valley Brick Works is a former quarry and industrial site located in the Don River valley in Toronto, Ontario, Canada.\n<b>Address:</b> 550 Bayview Ave #300, Toronto, ON M4W 3X8\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 596–1495\n<b>Did you know:</b> Evergreen Brick Works is Canada first large–scale community environmental centre.\n\n</string>
+    <string name="point_40">Harbourfront Centre is a key cultural organization on the waterfront of Toronto, Ontario, situated at 235 Queen Quay West.\n<b>Address:</b> 235 Queens Quay W, Toronto, ON M5J 2G8\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 973–4000\n<b>Founded:</b> January 1, 1991\n<b>CFO:</b> Neil Kerr\n<b>Chief marketing officer:</b> Mary Landreth\n<b>COO:</b> Chris Hutchinson\n</string>
+    <string name="point_41">Attraction where participants in suits and harnesses circle the exposed top of the 356m–high CN Tower.\n<b>Address:</b> 301 Front St W, Toronto, ON M5V 2T6\n<b>Hours:</b>Friday	9AM–8PM\n\t\t\t\t\t\tSaturday	9AM–8PM\n\t\t\t\t\t\tSunday	9AM–8PM\n\t\t\t\t\t\tMonday	9AM–8PM\n\t\t\t\t\t\tTuesday	9AM–8PM\n\t\t\t\t\t\tWednesday	9AM–8PM\n\t\t\t\t\t\tThursday	9AM–8PM\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 601–3833\n<b>Did you know:</b> EdgeWalk is Toronto tallest urban adventure and the world highest full circle hands–free walk.\n</string>
+    <string name="point_42">Chinguacousy Park is a large park in Brampton, Ontario Bramalea section. It is bounded by Queen Street East on the southeast, Bramalea Road on the northeast, and Central Park Drive on the north and west sides.\n<b>Address:</b> 9050 Bramalea Rd, Brampton, ON L6S 6G7\n<b>Hours:</b>Friday 10AM–8PM\n\t\t\t\t\t\tSaturday 10AM–8PM\n\t\t\t\t\t\tSunday 10AM–8PM\n\t\t\t\t\t\tMonday 10AM–8PM\n\t\t\t\t\t\tTuesday 10AM–8PM\n\t\t\t\t\t\tWednesday 10AM–8PM\n\t\t\t\t\t\tThursday 10AM–8PM\n<b>Phone:</b> (905) 458–6555\n<b>Province:</b> Ontario\n</string>
+    <string name="point_43">Centennial Park is a large regional park with many sports facilities, maintained by the Parks, Forestry and Recreation Division of the city of Toronto, Ontario, Canada.\n<b>Address:</b> 256 Centennial Park Rd, Etobicoke, ON M9C 5N3\n<b>Area:</b> 525 acres\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 394–8750\n</string>
+    <string name="point_44">Woodbine Beach is the largest of the four beaches in the Beaches in Toronto, Ontario, Canada. Located along Lake Shore Boulevard at the foot of Woodbine Avenue, it is next to Ashbridge Bay and Kew–Balmy Beach.\n<b>Address:</b> 1675 Lake Shore Blvd E, Toronto, ON M4L 3W6\n<b>Province:</b> Ontario\n<b>Phone:</b> (416) 338–4386\</string>
+    <string name="point_45">The Aga Khan Museum is a museum of Islamic art, Iranian art and Muslim culture in Toronto, Ontario, Canada. The museum is an initiative of the Aga Khan Trust for Culture, an agency of the Aga Khan Development Network.\n<b>Address:</b> 77 Wynford Dr, North York, ON M3C 1K1\n<b>Hours:</b>Friday	10AM–8:30PM\n\t\t\t\t\t\tSaturday	10AM–8:30PM\n\t\t\t\t\t\tSunday	Closed\n\t\t\t\t\t\tMonday	10AM–8:30PM\n\t\t\t\t\t\tTuesday	10AM–8:30PM\n\t\t\t\t\t\tWednesday	Open 24 hours\n\t\t\t\t\t\tThursday	10AM–8:30PM\n<b>Founded:</b> 2014\n<b>Province:</b> Ontario\n<b>Phone: </b>(416) 646–4677\n<b>Function:</b> Museum\n<b>Architects:</b> Fumihiko Maki, Charles Correa, Vladimir Djurovic\n</string>
+    <string name="point_46">A sprawling green space with an old–fashioned amusement park, beaches, picnic areas and city views.\n<b>Address:</b> Toronto, Ontario\n<b>Hours:</b>Friday	8AM–11PM\n\t\t\t\t\t\tSaturday	8AM–11PM\n\t\t\t\t\t\tSunday	8AM–11PM\n\t\t\t\t\t\tMonday	8AM–11PM\n\t\t\t\t\t\tTuesday	8AM–11PM\n\t\t\t\t\t\tWednesday	8AM–11PM\n\t\t\t\t\t\tThursday	8AM–11PM\n<b>Phone:</b> (416) 392–8196\n<b>Province:</b> Ontario\n</string>
+    <string name="point_47">Player One Amusement Group is a Canadian company which operates family entertainment centres in Canada. Player One is owned by parent company Cineplex Entertainment.\n<b>Located in:</b> Square One Shopping Centre\n<b>Address:</b> 99 Rathburn Rd W, Mississauga, ON L5B 4C1\n<b>Hours:</b>Friday	12PM–1AM\n\t\t\t\t\t\tSaturday	10AM–1AM\n\t\t\t\t\t\tSunday	10AM–11PM\n\t\t\t\t\t\tMonday	12–11PM\n\t\t\t\t\t\tTuesday	12–11PM\n\t\t\t\t\t\tWednesday	12–11PM\n\t\t\t\t\t\tThursday	12–11PM\n<b>Phone:</b> (905) 273–9000\n<b>Founded:</b> 2012\n<b>Parent organizations:</b> Cineplex Entertainment, Cineplex Odeon Corporation\n<b>Subsidiaries:</b> Dandy Amusements International, Inc., Tricorp Amusements, Inc., Sega Amusement Works, LLC\n<b>Did you know:</b> Playdium is the ultimate interactive, virtual and physical entertainment centre for energetic families\n</string>
+    <string name="point_48">Riverdale Farm is a 3–hectare municipally operated farm in the heart of Cabbagetown, an urban neighbourhood in Toronto, Ontario, Canada. It is maintained by Toronto Parks, Forestry and Recreation Division.\n<b>Address:</b> 201 Winchester St, Toronto, ON M4X 1B8\n<b>Hours:</b>Friday	9AM–5PM\n\t\t\t\t\t\tSaturday	9AM–5PM\n\t\t\t\t\t\tSunday	9AM–5PM\n\t\t\t\t\t\tMonday	9AM–5PM\n\t\t\t\t\t\tTuesday	9AM–5PM\n\t\t\t\t\t\tWednesday	9AM–5PM\n\t\t\t\t\t\tThursday	9AM–5PM\n<b>Province:</b> Ontario\n<b>Phone: </b>(416) 392–6794\n<b>Did you know:</b> Admission is free and Riverdale Farm is open every day from 9am to 5pm. toronto.ca\n</string>
+    <string name="point_49">Located in: Vaughan Mills\n<b>Address:</b> 1 Bass Pro Mills Dr, Concord, ON L4K 5W4\n<b>Hours:</b>Friday	10AM–8PM\n\t\t\t\t\t\tSaturday	10AM–8PM\n\t\t\t\t\t\tSunday	11AM–7PM\n\t\t\t\t\t\tMonday	10AM–7:30PM\n\t\t\t\t\t\tTuesday	10AM–7:30PM\n\t\t\t\t\t\tWednesday	10AM–7:30PM\n\t\t\t\t\t\tThursday	10AM–7:30PM\n<b>Phone:</b> +1 855–356–2150\n<b>Province:</b> Ontario\n</string>
+
+    <string name="cn_tower">CN Tower</string>
+    <string name="royal_ontario_museum">Royal Ontario Museum</string>
+    <string name="casa_loma">Casa Loma</string>
+    <string name="hockey_hall">Hockey Hall of Fame</string>
+
+    <string name="art_gallery">Art Gallery of Ontario</string>
+    <string name="ripley_aquarium">Ripley Aquarium of Canada</string>
+    <string name="distillery_istrict">Distillery District</string>
+    <string name="lawerence_market">St. Lawrence Market South</string>
+
+    <string name="toronto_islands">Toronto Islands</string>
+    <string name="toronto_eaton">Toronto Eaton Centre</string>
+    <string name="lake_ontario">Lake Ontario</string>
+    <string name="ontario_science">Ontario Science Centre</string>
+
+    <string name="queen_street">Queen Street West</string>
+    <string name="bata_shoe">Bata Shoe Museum</string>
+    <string name="high_park">High Park</string>
+    <string name="china_town">Chinatown, Toronto</string>
+
+    <string name="yorkvillw">Yorkville, Toronto</string>
+    <string name="canada_wonderland">Canada Wonderland</string>
+    <string name="kensigton_market">Kensington Market</string>
+    <string name="toronto_zoo">Toronto Zoo</string>
+
+    <string name="union_station">Union Station</string>
+    <string name="black_creek">Black Creek Pioneer Village</string>
+    <string name="centreville_amusement">Centreville Amusement Park</string>
+    <string name="allan_gardens">Allan Gardens</string>
+
+    <string name="nathan_phillips">Nathan Phillips Square</string>
+    <string name="fort_york">Fort York</string>
+    <string name="city_hall">Toronto City Hall</string>
+    <string name="gardiner_museum">Gardiner Museum</string>
+
+    <string name="edwards_gardens">Edwards Gardens</string>
+    <string name="yonge_dundas_square">Yonge-Dundas Square</string>
+    <string name="toronto_harbour">Toronto Harbour</string>
+    <string name="the_beaches">The Beaches</string>
+
+    <string name="textile_museum">Textile Museum of Canada</string>
+    <string name="spadina_house">Spadina House</string>
+    <string name="toronto_waterfront">Toronto waterfront</string>
+    <string name="gooderham_building">Gooderham Building</string>
+
+    <string name="hallan_point_beach">Hanlan Point Beach</string>
+    <string name="roy_thomson_hall">Roy Thomson Hall</string>
+    <string name="sugar_beach">Sugar Beach</string>
+    <string name="don_valley_brick_works">Don Valley Brick Works</string>
+
+    <string name="harbourfront_centre">Harbourfront Centre</string>
+    <string name="edgewalk_the_cn_tower">EdgeWalk at the CN Tower</string>
+    <string name="chinguacousy_park">Chinguacousy Park</string>
+    <string name="centennial_park">Centennial Park</string>
+
+    <string name="woodbine_beach">Woodbine Beach</string>
+    <string name="aga_khan_museum">Aga Khan Museum</string>
+    <string name="toronto_island_park">Toronto Island Park</string>
+    <string name="player_one_amusement">Player One Amusement Group</string>
+
+    <string name="riverdale_farm">Riverdale Farm</string>
+    <string name="legoland_discovery_centre">Legoland Discovery Centre</string>
+
+    //---------------------------------------------------------------------------------------------
+
+    <string name="action_settings">Settings</string>
+    <string name="string_internet_connection_not_available">Internet Connection Not Available</string>
+    <string name="string_some_thing_wrong">Something went wrong.</string>
+    <string name="string_getting_json_message">I am getting your JSON</string>
+    <string name="string_getting_json_title">Hey Wait Please...</string>
+    <string name="string_click_to_load">Click on FloatingActionButton to Load JSON</string>
+
+    //------------------------------------------------------------------------------------------------
+
+    <string name="menu_settings">Settings</string>
+    <string name="str_btn_find">Find</string>
+    <string name="sightseeing_places">Sightseeing places</string>
+
+    <string-array name="place_type">
+        <item></item>
+        <item>school</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>pharmacy</item>
+        <item>restaurant</item>
+        <item>movie_theater</item>
+        <item>airport</item>
+        <item>bus_station</item>
+        <item>bank</item>
+        <item>atm</item>
+        <item>mosque</item>
+        <item>church</item>
+        <item>hindu_temple</item>
+    </string-array>
+
+    <string-array name="place_type_name">it
+        <item>Choose your nearby place</item>
+        <item><center>School</center></item>
+        <item><center>Doctor</center></item>
+        <item><center>Hospital</center></item>
+        <item><center>Pharmacy</center></item>
+        <item><center>Restaurant</center></item>
+        <item><center>Movie theater</center></item>
+        <item><center>Airport</center></item>
+        <item><center>Bus station</center></item>
+        <item><center>Bank</center></item>
+        <item><center>ATM</center></item>
+        <item><center>Mosque</center></item>
+        <item><center>Church</center></item>
+        <item><center>Hindu temple</center></item>
+    </string-array>
+
+</resources>

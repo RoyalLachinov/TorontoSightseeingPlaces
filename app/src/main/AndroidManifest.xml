@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="ca.com.toronto">
+
+    <!-- below fetures are for image Capture example -->
+    <!-- <uses-feature -->
+    <!-- android:name="android.hardware.camera2" -->
+    <!-- android:required="true" /> -->
+
+
+    <!-- Google Map permissions -->
+    <uses-permission android:name="com.google.android.provider.gsf.premission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-sdk
+        android:minSdkVersion="20"
+        android:targetSdkVersion="26" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/toronto_main_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".activities.DetailsActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.VIEW" />-->
+
+            <!--<category android:name="android.intent.category.DEFAULT" />-->
+            <!--<category android:name="android.intent.category.BROWSABLE" />-->
+
+            <!--<data-->
+            <!--android:host="www1.toronto.ca"-->
+            <!--android:pathPrefix="/toronto"-->
+            <!--android:scheme="https" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:name=".activities.MapsActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+
+
+        <!--
+       API key for Google Places web services
+       AIzaSyA0GQi6hFA25lU8mfhJxLvMugJ_gw-ZrMo
+
+       API key for Google Places details
+       AIzaSyCWd4kqVkRS4DCIVtySiFe3sTl-7bvEY1s
+
+       API key for Google Place autocomplete
+       AIzaSyCrn9DD459fvHtT5jrbipDH3W1NbaEYBs0
+        -->
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyArc4gzWSSWj9sYcYdcEABNQP6KsDUGfZw" />
+
+        <!-- <meta-data -->
+        <!-- android:name="com.android.android.maps.v2.API_KEY" -->
+        <!-- android:value="AIzaSyAdLpz1G4E6qR_3g76e2WlH0VRjYhvpsXI" /> -->
+
+        <meta-data
+            android:name="com.android.android.maps.v2.API_KEY"
+            android:value="AIzaSyDs85dkYFBmAPeKKU2o2e-Vz7DR2Vg3yHg" />
+
+        <!-- <meta-data -->
+        <!-- android:name="com.google.android.maps.v2.API_KEY" -->
+        <!-- android:value="AIzaSyA0GQi6hFA25lU8mfhJxLvMugJ_gw-ZrMo"/> -->
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+    </application>
+
+</manifest>
