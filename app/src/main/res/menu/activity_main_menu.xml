@@ -8,8 +8,7 @@
         android:id="@+id/menu_settings"
         android:icon="@drawable/menu_sightseeing"
         android:orderInCategory="100"
-        android:showAsAction="always"
-        app:showAsAction="always"
+        android:title=""
         android:visible="true"
-        android:title=""/>
+        app:showAsAction="always" />
 </menu>

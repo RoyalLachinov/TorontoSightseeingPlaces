@@ -12,6 +12,8 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 
+import shapednavigationview.R;
+
 public class ShapedViewSettings {
     public final static int ARC_CONCAVE = 0;
     public final static int ARC_CONVEX = 1;
@@ -26,7 +28,7 @@ public class ShapedViewSettings {
 
     public ShapedViewSettings(Context context, AttributeSet attrs) {
         TypedArray styledAttributes = context.obtainStyledAttributes(attrs, R.styleable.ShapedDrawer, 0, 0);
-        final int shape = styledAttributes.getInt(R.styleable.ShapedDrawer_drawerShape, NORMAL);
+        final int shape = styledAttributes.getInt(shapednavigationview.R.styleable.ShapedDrawer_drawerShape, NORMAL);
         switch (shape) {
             case 0:
                 shapeType = ARC_CONCAVE;

@@ -12,14 +12,18 @@ import android.graphics.Color;
 import android.graphics.Path;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
-import android.support.design.internal.NavigationMenuView;
-import android.support.design.internal.ScrimInsetsFrameLayout;
-import android.support.design.widget.NavigationView;
-import android.support.v4.widget.DrawerLayout;
 import android.util.AttributeSet;
 import android.view.View;
 
+import androidx.drawerlayout.widget.DrawerLayout;
+
+import com.google.android.material.internal.NavigationMenuView;
+import com.google.android.material.internal.ScrimInsetsFrameLayout;
+import com.google.android.material.navigation.NavigationView;
+
 import java.lang.reflect.Field;
+
+import shapednavigationview.R;
 
 /**
  * Created by rom4ek on 10.01.2017.
@@ -116,7 +120,7 @@ public class ShapedNavigationView extends NavigationView {
         width = getMeasuredWidth();
         height = getMeasuredHeight();
         DrawerLayout.LayoutParams layoutParams = (DrawerLayout.LayoutParams) getLayoutParams();
-        boolean rtl = getResources().getBoolean(R.bool.is_right_to_left);
+        boolean rtl = getResources().getBoolean(shapednavigationview.R.bool.is_right_to_left);
         if (layoutParams.getLayoutDirection() == LAYOUT_DIRECTION_RTL || getResources().getBoolean(R.bool.is_right_to_left) == true) {
             rtl = true;
         } else {
